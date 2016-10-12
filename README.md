@@ -1,6 +1,6 @@
 # SomePortfolioSite
 
-I've forgetten all the installation details...
+I've forgotten all the installation details...
 
 However.
 
